@@ -1,11 +1,11 @@
-About r-reutils
-===============
+About r-reutils-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-reutils-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/gschofl/reutils
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-reutils-feedstock/blob/main/LICENSE.txt)
 
 Summary: An interface to NCBI databases such as PubMed, GenBank, or GEO powered by the Entrez Programming Utilities (EUtils). The nine EUtils provide programmatic access to the NCBI Entrez query and database system for searching and retrieving biological data.
 
